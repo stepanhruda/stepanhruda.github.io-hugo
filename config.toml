@@ -22,7 +22,7 @@ googleAnalytics = "UA-XXXXX-Y"
 
 	# Personal settings
 
-    name = "Stepan Hruda"
+  name = "Stepan Hruda"
 	position = "Software Developer"
 
 	# Extra stuff
@@ -68,6 +68,11 @@ googleAnalytics = "UA-XXXXX-Y"
 		icon = "fa-github"
 		link = "https://github.com/stepanhruda"
 
+  [[params.social]]
+    title = "Email"
+    icon = "fa-envelope"
+    link = "mailto:me@stepan.technology"
+
 	# Footer settings
 	[params.footer]
-		copyright = "Stepan Hruda"
+		copyright = ""
